@@ -2,7 +2,11 @@ RENCANA KONTEN YAYAN
 - Javascript
   * ES6
   * Framework Javascript
+    - vue
+    - react
 - Struktur data dasar
 - PHP Framework
+  * Laravel
 - Interview
 - Vlog
+- Python
