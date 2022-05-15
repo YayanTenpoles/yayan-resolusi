@@ -3,6 +3,7 @@ RENCANA KONTEN YAYAN
   * ES6
   * Framework Javascript
     - vue
+    - react
 - Struktur data dasar
 - PHP Framework
   * Laravel
